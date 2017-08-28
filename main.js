@@ -13,4 +13,5 @@
 
     //creates a random bumber from 15 to 25 for the seconds timer
     Math.floor(Math.random()*10+15);
+    //test
 })();
