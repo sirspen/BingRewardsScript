@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bing Search
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Will attempt random bing searches
 // @author       Spencer Stantis
 // @match        https://www.bing.com/*
